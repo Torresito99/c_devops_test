@@ -1,4 +1,4 @@
-# Description
+# Description ####
 
 Dummy project in C configure with a Jenkins CI pipeline that connects to sonnarcloud to check the quality of the code.
 
